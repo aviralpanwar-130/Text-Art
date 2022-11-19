@@ -4,4 +4,4 @@ We can edit our paragraph by omitting extra spaces, converting from uppercase to
 We can also replace a particualr word from every place with a given word and can perform much more operations using this 
 amazing application.
 Made using:-
-ReactJS, HTML, CSS, JS.
+ReactJS, HTML, CSS, Java Script.
